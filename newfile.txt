@@ -1,0 +1,5 @@
+#written by FileProperties
+#Mon Jul 25 13:23:26 JST 2022
+depth=33
+width=1024
+height=512
